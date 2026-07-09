@@ -41,11 +41,15 @@ Me chamo Juliany Santos, tenho 26 anos e sou natural de Minas Gerais. Atualmente
 ### 📊 Estatísticas
 
 <p align="left">
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Juliany-hub&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
+    <img src="https://github-profile-trophy.vercel.app/?username=Juliany-hub&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" alt="Troféus GitHub">
 </p>
 
 <p align="left">
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliany-hub&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Juliany-hub&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats">
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliany-hub&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade">
 </p>
 
 <br><br><br><br><br><br><br><br>

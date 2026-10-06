@@ -37,3 +37,23 @@ I'm studying for a Cybersecurity Specialist Technician qualification in Portugal
 | [🔎 Threat Hunting Reports](link) | Investigations mapped to MITRE ATT&CK |
 | [🚩 CTF & Lab Writeups](link) | TryHackMe / HackTheBox / LetsDefend walkthroughs |
 | [📚 Learning Journal](link) | My cybersecurity roadmap and weekly progress |
+
+## Current Roadmap
+
+- [x] Cybersecurity fundamentals
+- [ ] Build home SOC lab
+- [ ] Complete [Security+ / CC / BTL1 / other cert]
+- [ ] Publish 10 lab writeups
+- [ ] Write 3 incident response reports
+
+## Certifications & Courses
+
+- [Name: in progress / completed, year]
+
+## Languages
+
+🇧🇷 Portuguese (Native) · 🇬🇧 English ([level]) · [other]
+
+## Let's Connect
+
+[LinkedIn](your-link) · [Email](mailto:your-email) · [TryHackMe](your-link)
